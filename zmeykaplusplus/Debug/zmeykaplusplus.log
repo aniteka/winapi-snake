@@ -1,0 +1,6 @@
+﻿  zmeykaplusplus.cpp
+C:\Users\user\Desktop\zmeykaplusplus\zmeykaplusplus\zmeykaplusplus.cpp(70,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\zmeykaplusplus\zmeykaplusplus\zmeykaplusplus.cpp(107,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\zmeykaplusplus\zmeykaplusplus\zmeykaplusplus.cpp(151,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\zmeykaplusplus\zmeykaplusplus\zmeykaplusplus.cpp(174,63): warning C4267: '=': conversion from 'size_t' to 'wchar_t', possible loss of data
+  zmeykaplusplus.vcxproj -> C:\Users\user\Desktop\zmeykaplusplus\Debug\zmeykaplusplus.exe
