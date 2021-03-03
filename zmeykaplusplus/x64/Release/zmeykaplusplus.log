@@ -1,0 +1,8 @@
+﻿  zmeykaplusplus.cpp
+C:\Users\user\Desktop\zmeykaplusplus\zmeykaplusplus\zmeykaplusplus.cpp(150,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\zmeykaplusplus\zmeykaplusplus\zmeykaplusplus.cpp(173,63): warning C4267: '=': conversion from 'size_t' to 'wchar_t', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 186 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  zmeykaplusplus.vcxproj -> C:\Users\user\Desktop\zmeykaplusplus\x64\Release\zmeykaplusplus.exe

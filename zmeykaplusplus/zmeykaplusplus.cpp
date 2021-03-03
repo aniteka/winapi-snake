@@ -191,7 +191,7 @@ int update() {
 		if (GetKeyState(VK_ESCAPE) < 0) return 0;
 
 		// Logik:
-			if (timer.getTime() > 200) {
+			if (timer.getTime() > 300) {
 				toNext();
 				moveKD();
 				timer.Restart();
